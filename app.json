@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Mesaj",
+    "slug": "mesaj-uygulamasi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000000",
+    "android": {
+      "package": "com.senindomainin.mesaj",
+      "adaptiveIcon": {
+        "backgroundColor": "#000000"
+      }
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.senindomainin.mesaj"
+    }
+  }
+}
